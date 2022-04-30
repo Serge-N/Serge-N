@@ -20,5 +20,5 @@ Outside of work/coding I enjoy :
 
 ### Contact me via
 - Email as indicated on the left panel.
-- Reach out on ()[LinkedIn]
+- Reach out on [LinkedIn](https://www.linkedin.com/in/serge-nalishiwa-806b3412b/).
 - Am loking forward to collaborating with you.
