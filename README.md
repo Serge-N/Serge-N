@@ -6,7 +6,7 @@ Am a Fullstack developer focused on Design Patterns, Beautiful minimalist UI, an
 - Languages : C# ||  Kotlin
 - UX/DX : Adobe XD || Azure
 - IoT : Arduino || PI
-- Development OS : macOS
+- Targets : Web || Mobile || Cloud
 
 I love coding so much that I would not choose any other path in any lifetime. Am learning all I can at a fast pace but one framework at I time.
 
@@ -20,4 +20,5 @@ Outside of work/coding I enjoy :
 
 ### Contact me via
 - Email as indicated on the left panel.
+- Reach out on ()[LinkedIn]
 - Am loking forward to collaborating with you.
