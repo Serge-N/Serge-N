@@ -14,7 +14,7 @@ Outside of work/coding I enjoy :
 
 - :corn: Evaluating agricultural ideas.
 - :factory: Implementing construction designs.
-- :chart: Learning about investment.
+- :chart: Learning about investments.
 - :video_game: Playing video games.
 
 
