@@ -8,7 +8,7 @@ Am a Fullstack developer focused on Design Patterns, Beautiful minimalist UI, an
 - IoT : Arduino || PI
 - Targets : Web || Mobile || Cloud
 
-I love coding so much that I would not choose any other path in any lifetime. Am learning all I can at a fast pace but one framework at I time.
+Am learning all I can at a fast pace but one framework at I time.
 
 Outside of work/coding I enjoy :
 
