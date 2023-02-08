@@ -4,7 +4,7 @@ Am a Fullstack developer focused on Design Patterns, Beautiful minimalist UI, an
 
 ### Preferences
 - Languages : C# ||  Kotlin
-- UX/DX : Adobe XD || Azure
+- Cloud: Azure
 - IoT : Arduino || PI
 - Targets : Web || Mobile || Cloud
 
