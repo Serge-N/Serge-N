@@ -18,7 +18,6 @@ Outside of work/coding I enjoy :
 - :video_game: Playing video games.
 
 
-### Contact me via
-- Email at nserge05@gmail.com
+### Contact me via :
 - Reach out on [LinkedIn](https://www.linkedin.com/in/serge-nalishiwa-806b3412b/).
 - Am looking forward to collaborating with you.
