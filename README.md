@@ -1,12 +1,12 @@
-### Hi there 👋, Serge Timothy Nalishiwa here.
+### Hi there 👋, Serge Nalishiwa here.
 
 Am a Fullstack developer focused on Design Patterns, Beautiful minimalist UI, and Data Structures and Algorithms.
 
 ### Preferences
-- Languages : C# || JS || Typescript
+- Languages : C# && JS
 - Cloud: Azure
-- IoT : Arduino || PI
-- Targets : Web || Cloud
+- IoT : Arduino && PI
+- Targets : Web && Cloud
 
 Am learning all I can, at a fast pace but one framework at I time.
 
