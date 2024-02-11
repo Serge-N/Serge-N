@@ -3,7 +3,7 @@
 Am a Fullstack developer focused on Design Patterns, Beautiful minimalist UI, and Data Structures and Algorithms.
 
 ### Preferences
-- Languages : C# && JS
+- Languages : C# & Kotlin & JS
 - Cloud: Azure
 - IoT : Arduino && PI
 - Targets : Web && Cloud
