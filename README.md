@@ -5,7 +5,7 @@ Am a Fullstack developer focused on Design Patterns, Beautiful minimalist UI, an
 ### Preferences
 - Languages : C# & Kotlin & JS
 - Cloud: Azure
-- IoT : Arduino  PI
+- IoT : Arduino,  PI
 - Targets : Web & Cloud
 
 Am learning all I can, at a fast pace but one framework at I time.
