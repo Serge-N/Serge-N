@@ -1,4 +1,4 @@
-### Hi there 👋, Serge here.
+### Hi there 👋,
 
 Am a Fullstack developer focused on Design Patterns, Beautiful minimalist UI, and Data Structures and Algorithms.
 
