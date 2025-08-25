@@ -19,7 +19,7 @@ Outside of work/coding I enjoy :
 - :video_game: Playing video games.
 
 ## Contact :
-- Reach out on Skype as live:nserge05.
+- Reach out on Email as nserge05@yahoo.com.
 - Am looking forward to collaborating with you.
   
 ## Education
